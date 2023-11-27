@@ -1,0 +1,33 @@
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\bin\Debug\apRotasDeTrem.exe.config
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\bin\Debug\apRotasDeTrem.exe
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\bin\Debug\apRotasDeTrem.pdb
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.AssemblyReference.cache
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.SuggestedBindingRedirects.cache
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\obj\Debug\apRotasDeTrem.Properties.Resources.resources
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.GenerateResource.cache
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.CoreCompileInputs.cache
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\obj\Debug\apRotasDeTrem.exe
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\obj\Debug\apRotasDeTrem.pdb
+Z:\4o semestre\EstruturaDados2\apRotasDeTrem\obj\Debug\apRotasDeTrem.Renfe.resources
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\bin\Debug\apRotasDeTrem.exe.config
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\bin\Debug\apRotasDeTrem.exe
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\bin\Debug\apRotasDeTrem.pdb
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.AssemblyReference.cache
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\obj\Debug\apRotasDeTrem.Renfe.resources
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\obj\Debug\apRotasDeTrem.Properties.Resources.resources
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.GenerateResource.cache
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\obj\Debug\apRotasDeTrem.exe
+C:\Users\Pietro\Documents\Cotuca\apRotasDeTrem\obj\Debug\apRotasDeTrem.pdb
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.AssemblyReference.cache
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.SuggestedBindingRedirects.cache
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\obj\Debug\apRotasDeTrem.Renfe.resources
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\obj\Debug\apRotasDeTrem.Properties.Resources.resources
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.GenerateResource.cache
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\obj\Debug\apRotasDeTrem.csproj.CoreCompileInputs.cache
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\obj\Debug\apRotasDeTrem.exe
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\obj\Debug\apRotasDeTrem.pdb
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\bin\Debug\apRotasDeTrem.exe.config
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\bin\Debug\apRotasDeTrem.exe
+Z:\4o semestre\EstruturaDados2\22132_22148_Proj1ED\apRotasDeTrem\bin\Debug\apRotasDeTrem.pdb

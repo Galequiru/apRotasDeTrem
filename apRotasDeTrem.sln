@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apRotasDeTrem", "apRotasDeTrem.csproj", "{DAF8F1D4-50C8-4B51-9B6C-24C4B5689663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF8F1D4-50C8-4B51-9B6C-24C4B5689663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF8F1D4-50C8-4B51-9B6C-24C4B5689663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF8F1D4-50C8-4B51-9B6C-24C4B5689663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF8F1D4-50C8-4B51-9B6C-24C4B5689663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2BEDD2E-6BF6-46EC-BDCC-6AA107A55A03}
+	EndGlobalSection
+EndGlobal
