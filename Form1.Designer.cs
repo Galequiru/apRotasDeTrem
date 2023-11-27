@@ -55,6 +55,7 @@
             this.tpArvore = new System.Windows.Forms.TabPage();
             this.imgArvore = new System.Windows.Forms.PictureBox();
             this.lbMensagem = new System.Windows.Forms.Label();
+            this.dlgArquivo = new System.Windows.Forms.OpenFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.imgPeninsulaIberica)).BeginInit();
             this.tabControl1.SuspendLayout();
             this.tpCidades.SuspendLayout();
@@ -361,6 +362,10 @@
             this.lbMensagem.TabIndex = 2;
             this.lbMensagem.Text = "mensagem";
             // 
+            // dlgArquivo
+            // 
+            this.dlgArquivo.FileName = "openFileDialog1";
+            // 
             // Renfe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -417,6 +422,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn clnDistancia;
         private System.Windows.Forms.DataGridViewTextBoxColumn clnTempo;
         private System.Windows.Forms.Button btnSalvarCaminho;
+        private System.Windows.Forms.OpenFileDialog dlgArquivo;
     }
 }
 

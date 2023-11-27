@@ -21,14 +21,28 @@ namespace apRotasDeTrem
         private bool adicionando = false, alterando = false, adicionandoCaminho = false, alterandoCaminho = false;
         DataGridViewRow selectedRow = null;
         string novoNome = "";
-        const string rota = "Z:\\4o semestre\\EstruturaDados2\\apRotasDeTrem\\";
-
+        string arqCidades = null;
+        string arqRotas = null;
         public Renfe()
         {
             InitializeComponent();
-            cidades = new Arvore<Cidade>(rota + "cidades.dat"); //lê o arquivo de cidades e as coloca na arvore
 
-            arvoreCaminho = new Arvore<Caminho>(rota + "caminhos.dat");
+            if (dlgArquivo.ShowDialog() == DialogResult.OK)
+            {
+                arqCidades = dlgArquivo.FileName;
+                cidades = new Arvore<Cidade>(arqCidades);
+
+
+                if (dlgArquivo.ShowDialog() == DialogResult.OK)
+                {
+                    arqRotas = dlgArquivo.FileName;
+                    arvoreCaminho = new Arvore<Caminho>(arqRotas);
+                }
+                else
+                    arvoreCaminho = new Arvore<Caminho>();
+            }
+            else
+                cidades = new Arvore<Cidade>();
 
             var caminhos = arvoreCaminho.ToList();
             foreach (Caminho caminho in caminhos) 
@@ -513,8 +527,19 @@ namespace apRotasDeTrem
 
         private void Renfe_FormClosing(object sender, FormClosingEventArgs e)
         {
-            cidades.GravarArquivoDeRegistros(rota + "cidades.dat");
-            arvoreCaminho.GravarArquivoDeRegistros(rota + "caminhos.dat");
+            if (arqCidades == null)
+            {
+                if (dlgArquivo.ShowDialog() == DialogResult.OK)
+                    cidades.GravarArquivoDeRegistros(dlgArquivo.FileName);
+            }
+            else
+                cidades.GravarArquivoDeRegistros(arqCidades);
+            if (arqRotas == null)
+            {
+                if (dlgArquivo.ShowDialog() == DialogResult.OK)
+                    arvoreCaminho.GravarArquivoDeRegistros(dlgArquivo.FileName);
+            }
+            arvoreCaminho.GravarArquivoDeRegistros(arqRotas);
         }
     }
 }
